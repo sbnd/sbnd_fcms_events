@@ -7,3 +7,5 @@ Backend component that includes events list with calendar and possibility of set
 
 backend component(s) : YES
 frontend component(s): NO 
+
+For more information: http://fcms.sbnd.net/
