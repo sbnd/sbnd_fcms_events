@@ -1,11 +1,7 @@
-sbnd_fcms_events
+Events Component
 ================
+Backend component for managing events. Possibility to set reminders of an event. It can be used to feed web sites and/or mobile applications. 
 
-Events package
-
-Backend component that includes events list with calendar and possibility of setting time and message to remind for every event. It can be used for web sites and mobile applications.
-
-backend component(s) : YES
-frontend component(s): NO 
+The component has a backend part only, accessible from backend login form : domain/cp
 
 For more information: http://fcms.sbnd.net/
