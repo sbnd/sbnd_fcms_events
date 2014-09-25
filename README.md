@@ -3,8 +3,8 @@
 </a>
 # [Events Component](http://fcms.sbnd.net/en/download/) 
 ================
-Backend component for managing events. Possibility to set reminders of an event. It can be used to feed web sites and/or mobile applications. 
+A backend component for managing events. With it you can also set reminders for events. It can be used to feed web sites and/or mobile applications. 
 
-**The component has a backend part only**, accessible from backend login form : domain/cp
+The component only has a backend part, accessible from the administration panel form: domain/cp.
 
-For more information: **http://fcms.sbnd.net/**
+For more information, see: **http://fcms.sbnd.net/**
